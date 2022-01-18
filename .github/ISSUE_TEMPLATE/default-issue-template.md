@@ -1,19 +1,13 @@
 ---
-name: Default Issue template
-about: Basic template for issue creation on the application
-title: "[UI/LOGIC] [ANDROID/IOS] New issue title"
-labels: ''
-assignees: ''
-
+name: New Issue template
+about: Basic template for issue creation
+title: "[MOBILE/WEB/SERVICES/SERVER/CI] [ANDROID/IOS/N/A] New issue title"
+labels: ""
+assignees: ""
 ---
 
-**Problem Description**
-------
+## **Problem Description**
 
-  
 **How To Reproduce**
-  
 
-
-**Solution Description**
-------
+## **Solution Description**
