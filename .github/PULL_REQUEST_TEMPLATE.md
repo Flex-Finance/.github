@@ -57,6 +57,7 @@ and tick-off
 **_Task review_**
 
 - [ ] To prepare the Pull review for reviewer, take a recording and screenshot of the functionality been added in action
+- [ ] Pull in updates from the target branch of the PR and resolve conflicts. (Without this, the PR will not be merged)
 - [ ] Add said Screenshots and Videos as comments on the Pull request
 - [ ] Absence of the above, means the Pull request is not due for review
 - [ ] For code reviews, note all observations
