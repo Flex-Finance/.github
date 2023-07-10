@@ -1,28 +1,28 @@
-### What Does This PR Do?
+## What Does This PR Do?
 
-### Issue List
+## Issue List
 #
 
-### Dependency List
+## Dependency List
 1. AppSync PR - https://github.com/Flex-Finance/flexAppSync/pull/250
 2. Wallet Lambda PR - https://github.com/Flex-Finance/flexWallet_lambda/pull/250
 
-### None of the functionality to be implemented exists
+## None of the functionality to be implemented exists
 - [ ]  I’ve broken this task down into different functions
 - [ ]  I’ve gone through utility files related to this task
 - [ ]  None of the utility files contain similar functions
 - [ ]  I’ve asked another team member if this functionality exists
 
-### Test Scenarios
+## Test Scenarios
 [Read here](https://link_here)
 
-### How to test - Endpoint Flow / How to test - UI Flow
+## How to test - Endpoint Flow / How to test - UI Flow
 [Read here](https://link_here)
 
-### Success Criteria
+## Success Criteria
 [Read here]()
 
-### Test Url
+## Test Url
 
 ---
 
@@ -32,17 +32,17 @@ _Web_ -
 http://staging-flex-dashboard.s3-website.eu-west-2.amazonaws.com/dev/
 _Server_ - https://iel3y66lgzgytc5pocrgrza2le.appsync-api.eu-west-2.amazonaws.com/graphql
 
-#### Any Background Context You Want To Provide?
+## Any Background Context You Want To Provide?
 
 - [ ] N/A
 
-### Screenshot(s) and Video(s)
+## Screenshot(s) and Video(s)
 
 ---
 
 ![Demo](#)
 
-#### Checklist
+## Checklist
 
 ---
 
