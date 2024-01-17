@@ -8,7 +8,7 @@ Merge User onboarding from dev to staging with the following updates
 - Send an email to notify user once business has been verified succesfully
 
 ## Issue List
-#92 #90 #91 #87 #86 #88 #83 
+#1
 
 ## Dependency List
 1. AppSync PR - https://github.com/Flex-Finance/flexAppSync/pull/250
